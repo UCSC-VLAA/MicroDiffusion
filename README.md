@@ -1,6 +1,6 @@
-# MicroDiffusion: mplicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections
+# MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections
 
-This is the official repository for our paper: "MicroDiffusion: mplicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections."
+This is the official repository for our paper: "MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections."
 
 
 ## Abstract:
