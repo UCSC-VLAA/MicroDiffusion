@@ -13,7 +13,7 @@ By conditioning the diffusion model on the closest 2D projection, MicroDiffusion
   <img src="figures/model.png"/>
 </div>
 <div align="center">
-  <img src="figures/panel"/>
+  <img src="figures/panel.png"/>
 </div>
 
 ## Acknowledge
