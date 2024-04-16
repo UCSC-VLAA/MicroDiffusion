@@ -16,6 +16,11 @@ By conditioning the diffusion model on the closest 2D projection, MicroDiffusion
   <img src="figures/panel.png"/>
 </div>
 
+## Data and Weight
+
+[DropBox](https://www.dropbox.com/scl/fo/wq9yfbcanv186zkzfvb8y/AF08CJuhrzb6zGHxGPVQnxM?rlkey=l144vlr4d7vi6t24clxyyp4r5&dl=0)
+
+
 ## Acknowledge
 This work is partially supported by TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
 
