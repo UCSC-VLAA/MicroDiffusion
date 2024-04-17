@@ -22,6 +22,4 @@ Our data and weight are available at [DropBox](https://www.dropbox.com/scl/fo/wq
 ## Acknowledge
 This work is partially supported by TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
 
-
-## Coming Soon!
-We are preparing the code, data and models for release. Stay tuned!
+The code is built on [nerfmm](https://github.com/ActiveVisionLab/nerfmm) and [classifier-free-diffusion-guidance-Pytorch](https://github.com/coderpiaobozhe/classifier-free-diffusion-guidance-Pytorch?tab=readme-ov-file). Many thanks to the awesome works from the open-source community!
