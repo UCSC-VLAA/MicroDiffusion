@@ -1,0 +1,9 @@
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision 
+torchaudio 
+numpy == 1.26.4
+tqdm==4.65.2
+imageio
+matplotlib
+scipy
+opencv-python

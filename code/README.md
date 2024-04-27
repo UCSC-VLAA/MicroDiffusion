@@ -1,5 +1,13 @@
 ## Enviornment
-docker pull mudehui1/microdiffusionxla:v1.0
+
+```
+conda create -n microdiffusion python==3.9.0
+
+conda activate microdiffusion
+
+pip install -r requirements.text
+```
+
 ## Training Inr
 ```
 cd INR
