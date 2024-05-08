@@ -182,9 +182,6 @@ def train(params:argparse.Namespace):
             
             print("Total:{:4f}".format(loss.item()))
 
-            loss.backward()
-            optimizer.step()
-
         warmUpScheduler.step()
     if True:
         checkpoint = {
