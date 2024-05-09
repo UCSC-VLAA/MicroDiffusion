@@ -86,13 +86,8 @@ class DataLoaderAnyFolder:
         # always use ndc
         self.near = 0.0
         self.far = 1.0
-
-        if self.res_ratio > 1:
-            self.H = self.ori_H // self.res_ratio
-            self.W = self.ori_W // self.res_ratio
-        else:
-            self.H = self.ori_H
-            self.W = self.ori_W
+        self.H =128
+        self.W = 128
 
         if self.load_img:
             self.imgs = resize_imgs(self.imgs, self.H, self.W)  # (N, H, W, 3) torch.float32
