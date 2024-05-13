@@ -25,8 +25,8 @@ If you find our work helpful, please consider citing:
 
 ```bibtex
 @article{hui2024microdiffusion,
-  author    = {Hui, Mude and Wei, Zihao and Zhu, Hongru and Xia, Fei and Zhou, Yuyin.},
   title     = {MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections},
+  author    = {Hui, Mude and Wei, Zihao and Zhu, Hongru and Xia, Fei and Zhou, Yuyin.},
   journal   = {Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2024},
 }
