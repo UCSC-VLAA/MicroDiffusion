@@ -19,6 +19,19 @@ By conditioning the diffusion model on the closest 2D projection, MicroDiffusion
 ## Data and Weight
 Our data and weight are available at [DropBox](https://www.dropbox.com/scl/fo/wq9yfbcanv186zkzfvb8y/AF08CJuhrzb6zGHxGPVQnxM?rlkey=l144vlr4d7vi6t24clxyyp4r5&dl=0)
 
+## Citation
+
+If you find our work helpful, please consider citing:
+
+```bibtex
+@article{hui2024microdiffusion,
+  author    = {Hui, Mude and Wei, Zihao and Zhu, Hongru and Xia, Fei and Zhou, Yuyin.},
+  title     = {MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections},
+  journal   = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2024},
+}
+```
+
 ## Acknowledge
 This work is partially supported by TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
 
